@@ -5,7 +5,7 @@ git init
 git add
 git commit -m [messages]
 git log
-git stat
+git status
 
 git remote add origin https://github.com/zeroboycoder/git_batch_4.git
 git remote remove origin
