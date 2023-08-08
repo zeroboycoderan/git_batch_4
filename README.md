@@ -19,3 +19,8 @@ git push origin main
 
 git pull [remote_name] [branch_name]
 git pull origin main
+
+git switch [branch_name]
+git switch dashboard
+
+git checkout [branch_name]
